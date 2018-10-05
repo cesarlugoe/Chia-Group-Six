@@ -241,4 +241,26 @@ article {
     margin: 0 auto;
   }
 
+  .flex {
+    display: flex;
+    justify-content: space-between;
+    max-width: 728px;
+    margin: 0 auto;
+  }
+
+  article {
+    margin: 30px;
+  }
+
+  article img {
+    width: 30%;
+  }
+
+  .recipes {
+    text-align: center;
+  }
+  .recipes img {
+    max-width: 728px;
+  }
+
 }
